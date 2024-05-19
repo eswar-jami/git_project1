@@ -1,1 +1,2 @@
+git pull diectly merge 
 chandes are done by the some other team member
